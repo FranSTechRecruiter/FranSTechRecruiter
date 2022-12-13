@@ -1,8 +1,6 @@
 ## Hello! Welcome to my GitHub profile 👋
 # Hi there, My name is Franciéle Scalcon, but you can call me Fran!
 
-[Snake animation](https://github.com/FranSTechRecruiter/FranSTechRecruiter/blob/output/github-contribution-grid-snake.svg)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on psicologia organizacional, Recruitment and Selection, People and Leadership Management, Talent Acquisition, Headhunter, Tech Recruiter.
