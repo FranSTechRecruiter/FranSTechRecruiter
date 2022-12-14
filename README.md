@@ -1,4 +1,8 @@
 ## Hello! Welcome to my GitHub profile 👋
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/120336192/207620237-b5fce59e-eec4-428f-bbc2-b67024316376.gif)
+
+
 # Hi there, My name is Franciéle Scalcon, but you can call me Fran!
 
 - 🔭 I’m currently working on Psicologia Organizacional, Recruitment and Selection, People and Leadership Management, Talent Acquisition, Headhunter, Tech Recruiter.
